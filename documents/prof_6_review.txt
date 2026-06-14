@@ -1,0 +1,375 @@
+4
+/ 5
+Overall Quality Based on 96 ratings
+Abdussalam Alawini
+Professor in the Computer Science department at University Of Illinois at Urbana - Champaign
+70%
+Would take again
+3.4
+Level of Difficulty
+
+
+Quality
+2.0
+Difficulty
+1.0
+CS411
+May 27th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Everything is taught entirely at a surface level, which is fine for SQL but detrimental for the theoretical database topics. The class, including the group project, is painfully easy, presenting little challenge. Good for learning SQL and easily fulfilling a requirement, but not for learning.
+Participation matters
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Apr 26th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Group project has nothing to do with whats taught in class and is worth a large part of the grade, would not recommend
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Apr 26th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Group project is an overcomplicated mess that has nothing to do with whats taught in the class. Absolutely ridiculous
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Reviewed: Apr 30th, 2026
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Mar 27th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+This guy made a series of videos years ago and uses them as the only "teaching" in the class so he can use lectures to do zero teaching every week, videos arent remotely helpful either. Unbelievable that no teaching is done in lecture at all, exams are tricky too, wish i did not take this class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Mar 9th, 2026
+For Credit: Yes
+Attendance: Mandatory
+No clear instructions or examples whatsoever
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Mar 8th, 2026
+For Credit: Yes
+Attendance: Mandatory
+No actual teaching is done in this class, lectures are just work time for small group assignments, all the learning comes form recorded pre-lectures to watch on your own time but they are extremely lacking to complete the GAs and HW properly. Also, the 30% group project is very unforgiving for anyone with no development experience as its not taught
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+Feb 3rd, 2026
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Pre-lectures are not enough to complete the HW and we barely go over anything in class and instead just do group work with no instruction in lecture. HW is way too difficult and time-consuming for entry level SQL
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+3.0
+CS411
+Dec 7th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+He is monotonous, and his lectures have no relevant examples for HWS or GAS. The group project is wildly restrictive and poorly directed, ramping up heavily towards the end. He is just a bad teacher, but overall the better professor for 411, which is disappointing. Expect no instructions for a full-stack web application with unnecessary requirement
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+1.0
+CS411
+May 25th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+They call this man "da legend" for a reason–the course is useful for gaining insight into DMS, how DMS operate under the hood, learning how to write basic SQL, and other aspects of database systems. Class is very fair, group project is very educational but not hard, and the professor is overall very funny!
+Group projects
+Amazing lectures
+Hilarious
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+2.0
+CS411
+Dec 19th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+After the first half of the semester you don't have to go to class. When there is class there is always groupwork. Material is decently interesting but the final project is the highlight.
+Group projects
+Hilarious
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+4.0
+CS411
+Dec 21st, 2023
+Attendance: Mandatory
+Grade: A
+Terrible group grading in this course. Raised concerns to the professor, who was often online but never responded. The grading system didn't seem fair and individual efforts were ignored (the so-called individual grading system did not work at all). The professor and TAs are indifferent to student concerns. Avoid this course.
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+CS411
+Sep 20th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Terrible prof. Has deluded himself into thinking students love him. Assignments are complex and very vaguely worded, even TA's are too confused to help. Blames students "not starting early," etc. for struggling, refuses to listen to feedback. Course material is not hard, but figuring out what the homework even wants you to do is much harder.
+Group projects
+Lots of homework
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+5.0
+CS411
+Aug 17th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Wonderful professor and very well run class. Very doable if you put in the work. My advice is PRE's are not enough to do well on HW+quizzes so make sure you come prepared and listen during GA lecture+activity. And if someone in your project group does not know web dev you will have a very difficult time with that because they don't help with that.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+3.0
+CS411
+Aug 11th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Abdu is an understanding, fair and funny instructor. I feel like I learned a lot in his class but certain things (indexing, relational algebra) were rushed through very quickly. You have to be on your toes because the questions on his quizzes are not easy, but I feel that the group activities and honeworks prepare you well for those.
+Participation matters
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+3.0
+CS411
+Jun 14th, 2023
+Grade: A+
+Very unresponsive, would avoid at all costs
+Helpful
+Thumbs up
+4
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+5.0
+CS411
+May 20th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: N/A
+professor is fun, but he is also stricted. not like other professor in uiuc, he is not too friendly and will make you have some pressure in course. Course is named Database but you will have to make a full web application for final project. Doesnt make any sense, lecture was rough
+Lots of homework
+Lecture heavy
+Test heavy
+Helpful
+Thumbs up
+3
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+4.0
+Computer IconCS411
+May 15th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: D+
+Textbook: N/A
+Online Class: Yes
+Absolutely rough course. No teaching in lecture, brought unnecessary and unclear lecture to class, he provided you lecture slide and ask you read it before come to class. when you attend in class, he just uses 2 example questions to teach you and ask you do GA after that. Final Project asked doing a ton of nothing and they re outside the course.
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+6
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+4.0
+CS411
+May 15th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+I have met so many professor that they are willing to help me solve the issue. this professor, when I came to ask him a question, he just answered in general and wanted you to leave. his lecture is terrible I can say, and his TAs are unable to help student solve problem. you also lost over 75% grade in quiz if you failed to answer the first attempt
+Tough grader
+Lecture heavy
+Test heavy
+Helpful
+Thumbs up
+6
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS411
+May 15th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: N/A
+Be aware if you are about to take the CS411 with this teacher. There is no excuse if you got caught because of using out source to solve your homework. This instructor will use the testing software whatever he called, to figure out are you cheating or no. there is no excuse for you, and put you on stressful when you have problem. he has no altruism
+Tough grader
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+3.0
+CS411
+Apr 20th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+The instructor has a clear, humorous, and interesting teaching style. Abdu will discuss pre-lectures and extra practices during the lecture in detail. There are even relaxing activities during the class. The course content is really good.
+EXTRA CREDIT
+Amazing lectures
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
