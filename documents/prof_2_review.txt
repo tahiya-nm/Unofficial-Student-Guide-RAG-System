@@ -345,7 +345,7 @@ Quality
 2.0
 Difficulty
 3.0
-Computer IconCS105
+CS105
 Feb 15th, 2022
 For Credit: Yes
 Attendance: Mandatory

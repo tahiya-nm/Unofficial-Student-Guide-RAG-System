@@ -295,7 +295,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS411
+CS411
 May 15th, 2023
 For Credit: Yes
 Attendance: Mandatory

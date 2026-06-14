@@ -34,7 +34,7 @@ Quality
 5.0
 Difficulty
 4.0
-Computer IconCS241
+CS241
 Dec 27th, 2024
 For Credit: Yes
 Attendance: Mandatory
@@ -207,7 +207,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS241
+CS241
 May 9th, 2021
 For Credit: Yes
 Attendance: Mandatory

@@ -22,6 +22,8 @@ COLLECTION_NAME = "rmp_reviews"
 EMBED_MODEL = "all-MiniLM-L6-v2"  # local model, no API key needed
 TOP_K = 5                          # number of chunks to retrieve per query
 
+model = SentenceTransformer(EMBED_MODEL)
+
 
 def get_collection():
     """
@@ -82,7 +84,6 @@ def retrieve(query, k=TOP_K):
     Returns a list of dicts: {text, source, professor, course, distance}
     Distance is cosine distance (lower = more similar).
     """
-    model = SentenceTransformer(EMBED_MODEL)
     query_embedding = model.encode([query])[0].tolist()
 
     collection = get_collection()

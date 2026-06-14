@@ -76,7 +76,7 @@ Quality
 5.0
 Difficulty
 3.0
-Computer IconCS411
+CS411
 Nov 6th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -133,7 +133,7 @@ Quality
 5.0
 Difficulty
 2.0
-Computer IconCS411
+CS411
 May 16th, 2022
 For Credit: Yes
 Attendance: Not Mandatory
@@ -155,7 +155,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS511
+CS511
 Nov 10th, 2021
 For Credit: Yes
 Attendance: Mandatory
@@ -173,7 +173,7 @@ Quality
 5.0
 Difficulty
 4.0
-Computer IconCS411
+CS411
 Jun 24th, 2021
 For Credit: Yes
 Attendance: Mandatory
@@ -194,7 +194,7 @@ Quality
 5.0
 Difficulty
 4.0
-Computer IconCS411
+CS411
 Jun 24th, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -232,7 +232,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS411
+CS411
 May 1st, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -305,7 +305,7 @@ Quality
 5.0
 Difficulty
 4.0
-Computer IconCS411
+CS411
 Nov 6th, 2018
 For Credit: Yes
 Attendance: Mandatory

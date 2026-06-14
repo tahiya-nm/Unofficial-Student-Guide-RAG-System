@@ -127,7 +127,7 @@ Quality
 2.0
 Difficulty
 4.0
-Computer IconCS425
+CS425
 Sep 30th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -264,7 +264,7 @@ Quality
 4.0
 Difficulty
 4.0
-Computer IconCS525
+CS525
 Jul 8th, 2016
 For Credit: Yes
 Attendance: Mandatory
@@ -332,7 +332,7 @@ Quality
 4.0
 Difficulty
 3.0
-Computer IconCS525
+CS525
 Mar 24th, 2015
 Textbook: No
 Online Class: Yes
