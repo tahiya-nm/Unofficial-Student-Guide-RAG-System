@@ -13,7 +13,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS128
+CS128
 May 6th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -31,7 +31,7 @@ Quality
 5.0
 Difficulty
 1.0
-Computer IconCS128
+CS128
 May 5th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -50,7 +50,7 @@ Quality
 1.0
 Difficulty
 3.0
-Computer IconCS128
+CS128
 Apr 28th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -68,7 +68,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Apr 25th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -106,7 +106,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS128
+CS128
 Apr 23rd, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -125,7 +125,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Apr 22nd, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -147,7 +147,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Apr 22nd, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -168,7 +168,7 @@ Quality
 1.0
 Difficulty
 3.0
-Computer IconCS128
+CS128
 Apr 9th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -186,7 +186,7 @@ Quality
 1.0
 Difficulty
 1.0
-Computer IconCS128
+CS128
 Apr 9th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -207,7 +207,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Apr 8th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -228,7 +228,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS128
+CS128
 Apr 8th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -248,7 +248,7 @@ Quality
 1.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Apr 8th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -287,7 +287,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS128
+CS128
 Apr 8th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -306,7 +306,7 @@ Quality
 1.0
 Difficulty
 1.0
-Computer IconCS128
+CS128
 Apr 6th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -327,7 +327,7 @@ Quality
 1.0
 Difficulty
 4.0
-Computer IconCS128
+CS128
 Apr 6th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -345,7 +345,7 @@ Quality
 3.0
 Difficulty
 3.0
-Computer IconCS128
+CS128
 Mar 31st, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -366,7 +366,7 @@ Quality
 2.0
 Difficulty
 5.0
-Computer IconCS128
+CS128
 Mar 27th, 2026
 For Credit: Yes
 Attendance: Mandatory
