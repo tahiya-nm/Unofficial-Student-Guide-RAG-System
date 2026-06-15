@@ -1,9 +1,4 @@
-# The Unofficial Guide — Project 1
-
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+# The Unofficial UIUC CS Professor Guide 
 
 ---
 
@@ -20,11 +15,7 @@ UIUC CS professor reviews collected from Rate My Professors, covering 10 profess
 
 ## Demo Video
 
-<!-- To upload: open this file in GitHub's web editor (click the pencil icon on GitHub),
-     then drag and drop your video file directly into the editor.
-     GitHub will upload it and auto-generate a markdown link. Replace this comment with that link. -->
-
-
+https://github.com/user-attachments/assets/c6033564-3b48-480d-8570-a2c2937a3a1b
 
 ---
 
