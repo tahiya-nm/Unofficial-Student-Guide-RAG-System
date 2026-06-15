@@ -18,6 +18,16 @@ UIUC CS professor reviews collected from Rate My Professors, covering 10 profess
 
 ---
 
+## Demo Video
+
+<!-- To upload: open this file in GitHub's web editor (click the pencil icon on GitHub),
+     then drag and drop your video file directly into the editor.
+     GitHub will upload it and auto-generate a markdown link. Replace this comment with that link. -->
+
+
+
+---
+
 ## Document Sources
 
 <!-- List every source you collected documents from.
