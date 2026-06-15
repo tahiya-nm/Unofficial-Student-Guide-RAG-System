@@ -9,7 +9,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
-UIUC CS professor reviews collected from Rate My Professors, covering 10 professors across 8 courses including CS126, CS128, CS173, CS225, CS233, CS361, CS374, CS411, CS425, and STAT107. This knowledge is valuable because RMP data is not queryable — a student cannot ask "which CS professor is most exam-heavy" or "does Evans respond to students outside class" and get a direct answer. Official university channels provide no student opinion data at all, making this kind of peer knowledge effectively invisible unless you manually read hundreds of individual reviews.
+UIUC CS professor reviews collected from Rate My Professors, covering 10 professors across 8 courses. This knowledge is valuable because RMP data is not queryable; a student cannot ask "which CS professor is most exam-heavy" or "does Evans respond to students outside class" and get a direct answer. Official university channels provide no student opinion data at all, making this kind of peer knowledge effectively invisible unless you manually read hundreds of individual reviews.
 
 ---
 
